@@ -26,6 +26,8 @@ public class MongoConfig {
 
     
     public @Bean MongoOperations mongoTemplate(Mongo mongo){
+
+    	
         // 操作Mongo的模板类，提供了非常纯粹的oo操作数据库的api
         return new MongoTemplate(mongo, "dongnao"); // dongnao 为数据库名
     }
