@@ -12,8 +12,6 @@ public class Person {
 	private int age;
 
 	private Long updateTime;
-
-
 	public Person(){
 		
 	}
