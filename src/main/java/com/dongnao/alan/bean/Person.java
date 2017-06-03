@@ -13,10 +13,12 @@ public class Person {
 
 	private Long updateTime;
 
+
 	public Person(){
 		
 	}
-	
+
+
 	public void setId(String id) {
 		this.id = id;
 	}
