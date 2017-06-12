@@ -1,3 +1,3 @@
 <html> helloword</html>
 
-by jenkins啊啊啊啊
+by jenkins test runner
